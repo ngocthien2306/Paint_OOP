@@ -7,6 +7,8 @@ namespace Paint_OOP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Project 1");
+            Console.WriteLine("I'm trying my best");
         }
     }
 }
